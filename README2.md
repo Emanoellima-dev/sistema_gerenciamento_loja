@@ -93,11 +93,11 @@ Este projeto é um sistema avançado de gerenciamento de uma loja utilizando MyS
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/sistema_gerenciamento_loja_avancado.git
+git clone https://github.com/seu-usuario/sistema_gerenciamento_loja.git
 ```
 2. acesse o diretório:
 ```bash
-cd sistema_gerenciamento_loja_avancado
+cd sistema_gerenciamento_loja
 ```
 3. Importe o arquivo schema.sql no seu banco de dados MySQL:
 ```bash
@@ -106,7 +106,7 @@ mysql -u seu_usuario -p < schema.sql
 4. Utilize ferramentas como MySQL Workbench ou DBeaver para explorar e inserir dados nas tabelas.
 
 ## Banco de Dados Hospedado
-O banco de dados deste projeto está hospedado na plataforma Railway.
+O banco de dados deste projeto está hospedado na plataforma **Railway**.
 Se você deseja replicar este projeto, pode criar um banco semelhante no Railway ou outra plataforma de sua preferência.
 
 ## Observação
