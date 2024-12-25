@@ -95,3 +95,12 @@ Este projeto é um sistema avançado de gerenciamento de uma loja utilizando MyS
 ```bash
 git clone https://github.com/seu-usuario/sistema_gerenciamento_loja_avancado.git
 ```
+2. acesse o diretório:
+```bash
+cd sistema_gerenciamento_loja_avancado
+```
+3. Importe o arquivo schema.sql no seu banco de dados MySQL:
+```bash
+mysql -u seu_usuario -p < schema.sql
+```
+4. Utilize ferramentas como MySQL Workbench ou DBeaver para explorar e inserir dados nas tabelas.
