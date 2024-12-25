@@ -81,6 +81,14 @@ Este projeto é um sistema avançado de gerenciamento de uma loja utilizando MyS
    - `total_vendas`: Total de vendas realizadas no mês  
    - `total_produtos_vendidos`: Quantidade total de produtos vendidos
 
+### Explicações sobre o Projeto
+
+- **Relacionamentos entre tabelas:** O banco de dados inclui chaves estrangeiras para estabelecer relacionamentos entre as tabelas, como entre clientes e pedidos, produtos e categorias, pedidos e detalhes de pedidos, entre outros.
+  
+- **Controle de Estoque e Movimentação:** A tabela `estoque_historico` permite acompanhar as entradas e saídas de produtos, enquanto a tabela `vendas` registra transações realizadas.
+
+- **Relatórios de Vendas:** A tabela `relatorios_vendas_mensais` oferece uma visão consolidada das vendas por mês, útil para análises.
+
 ## Como Usar
 
 1. Clone este repositório:
