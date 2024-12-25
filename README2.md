@@ -104,3 +104,10 @@ cd sistema_gerenciamento_loja_avancado
 mysql -u seu_usuario -p < schema.sql
 ```
 4. Utilize ferramentas como MySQL Workbench ou DBeaver para explorar e inserir dados nas tabelas.
+
+## Banco de Dados Hospedado
+O banco de dados deste projeto está hospedado na plataforma Railway.
+Se você deseja replicar este projeto, pode criar um banco semelhante no Railway ou outra plataforma de sua preferência.
+
+## Observação
+Este projeto foi feito apenas com o intuito de aprimorar meus conhecimentos em MySQL. por isso não aceito contribuições ao projeto no momento.
