@@ -99,7 +99,7 @@ git clone https://github.com/seu-usuario/sistema_gerenciamento_loja.git
 ```bash
 cd sistema_gerenciamento_loja
 ```
-3. Importe o arquivo schema.sql no seu banco de dados MySQL:
+3. Importe o arquivo [schema.sql](https://github.com/Emanoellima-dev/sistema_gerenciamento_loja/blob/main/schema.sql) que está neste repositório no seu banco de dados MySQL:
 ```bash
 mysql -u seu_usuario -p < schema.sql
 ```
